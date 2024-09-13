@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Uloha_2_detekce_pismen/1.0.0": {
+        "runtime": {
+          "Uloha_2_detekce_pismen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uloha_2_detekce_pismen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

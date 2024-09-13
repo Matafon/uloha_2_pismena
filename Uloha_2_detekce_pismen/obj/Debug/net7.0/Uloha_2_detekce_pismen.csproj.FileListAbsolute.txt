@@ -1,0 +1,15 @@
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/bin/Debug/net7.0/Uloha_2_detekce_pismen
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/bin/Debug/net7.0/Uloha_2_detekce_pismen.deps.json
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/bin/Debug/net7.0/Uloha_2_detekce_pismen.runtimeconfig.json
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/bin/Debug/net7.0/Uloha_2_detekce_pismen.dll
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/bin/Debug/net7.0/Uloha_2_detekce_pismen.pdb
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.csproj.AssemblyReference.cache
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.AssemblyInfoInputs.cache
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.AssemblyInfo.cs
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.csproj.CoreCompileInputs.cache
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.dll
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/refint/Uloha_2_detekce_pismen.dll
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.pdb
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/Uloha_2_detekce_pismen.genruntimeconfig.cache
+/Users/martin/RiderProjects/uloha_2_pismena/Uloha_2_detekce_pismen/Uloha_2_detekce_pismen/obj/Debug/net7.0/ref/Uloha_2_detekce_pismen.dll
